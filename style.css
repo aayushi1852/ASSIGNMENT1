@@ -28,7 +28,7 @@ main div:nth-of-type(2) {
 }
 
 footer {
-  background-color: #312B29;
+  background-color: burlywood;
   padding: 2rem;
   display: flex;
   justify-content: center;
